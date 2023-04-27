@@ -62,3 +62,5 @@ async function apiFetch(url) {
   }
   
   getData();
+
+// module.exports = 

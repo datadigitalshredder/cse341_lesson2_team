@@ -2,7 +2,7 @@
   "name": "cse341_lesson2_team",
   "version": "1.0.0",
   "description": "",
-  "main": "script.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server.js"
@@ -15,5 +15,10 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
+  },
+  "lesson2": {
+    "name": "Innocent Hove",
+    "description": "Operations Supervisor (R&D) at Cropserve (Pvt) Ltd | Data Scientist in the making | Web & Computer Programming Certificate | Python, PHP, HTML, CSS, JavaScript"
   }
+
 }
