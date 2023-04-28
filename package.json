@@ -11,14 +11,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
-  },
-  "lesson2": {
-    "name": "Innocent Hove",
-    "description": "Operations Supervisor (R&D) at Cropserve (Pvt) Ltd | Data Scientist in the making | Web & Computer Programming Certificate | Python, PHP, HTML, CSS, JavaScript"
   }
-
 }
